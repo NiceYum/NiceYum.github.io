@@ -716,7 +716,7 @@ label:last-of-type {
 }
 @media screen and (max-width: 530px) {
     .pc img{
-        width: 150px;
+        width: 250px;
         height: 100%;
     }
   .card-wrap-bottom {
