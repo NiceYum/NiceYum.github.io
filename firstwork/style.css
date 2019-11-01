@@ -662,17 +662,17 @@ label:last-of-type {
   }
   .pc-words {
     text-align: center;
-    top: 3rem;
+    top: 2.5rem;
     max-width: 92%;
   }
   .pc-words-content {
-    font-size: 4.5vmax;
+    font-size: 2.2rem;
   }
   .pc-words-content:first-of-type {
-    font-size: 5vmax;
+    font-size: 1.3rem;
   }
   .pc-words-content:last-of-type {
-    font-size: 5vmax;
+    font-size: 2.5rem;
   }
 }
 @media (max-width: 645px) {
@@ -728,7 +728,7 @@ label:last-of-type {
 }
 @media (max-width: 537px) {
   .pc-words-content {
-    font-size: 3vmax;
+    font-size: 1.2rem;
   }
 }
 @media (max-width: 400px) {
