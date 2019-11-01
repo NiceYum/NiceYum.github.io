@@ -657,9 +657,7 @@ label:last-of-type {
   .header-center {
     display: none;
   }
-  .pc{
-      max-height: 320px;
-  }
+  
   .pc img {
     width: 100%;
     height: 100%;
@@ -717,6 +715,9 @@ label:last-of-type {
   }
 }
 @media screen and (max-width: 530px) {
+    .pc img{
+        height: 200px;
+    }
   .card-wrap-bottom {
     flex-direction: column;
   }
